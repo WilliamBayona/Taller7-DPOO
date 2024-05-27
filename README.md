@@ -1,0 +1,1 @@
+Para ejecutar la aplicacion, correr la clase VentanaPrincipal
